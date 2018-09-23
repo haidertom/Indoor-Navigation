@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{EBACD83A-200A-CA4F-A8FC-8FBD14C6B756}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/NewBehaviourScript.cs">
+    <Files>
+      <File FileName="Assets/NewBehaviourScript.cs" Line="211" Column="2" />
+      <File FileName="Assets/Unity-Logs-Viewer/Reporter/Reporter.cs" Line="330" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MobileRestAPI__1 PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>

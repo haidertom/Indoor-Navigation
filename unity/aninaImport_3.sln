@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aninaImport_3", "aninaImport_3.csproj", "{909E4CC5-C0F2-64CF-D0C6-714A948D1DEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aninaImport_3.Editor", "aninaImport_3.Editor.csproj", "{704EE655-E1E6-DBAC-8045-09441028D65D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{909E4CC5-C0F2-64CF-D0C6-714A948D1DEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{909E4CC5-C0F2-64CF-D0C6-714A948D1DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{909E4CC5-C0F2-64CF-D0C6-714A948D1DEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{909E4CC5-C0F2-64CF-D0C6-714A948D1DEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{704EE655-E1E6-DBAC-8045-09441028D65D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{704EE655-E1E6-DBAC-8045-09441028D65D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{704EE655-E1E6-DBAC-8045-09441028D65D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{704EE655-E1E6-DBAC-8045-09441028D65D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

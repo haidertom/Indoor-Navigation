@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{8CF81A63-C66C-353E-319E-56ECDEFB8332}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GetGPS.cs">
+    <Files>
+      <File FileName="Assets/GetGPS.cs" Line="160" Column="43" />
+      <File FileName="Assets/RotateCompass.cs" Line="57" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Merge__Nav__GeoCord PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
