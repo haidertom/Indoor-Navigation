@@ -3,4 +3,7 @@ Projects and Work that lead to my Bachelor Thesis on Indoor Positioning for Augm
 final work under NDA
 Please contact me for mor Information
 
-Inspired by: 
+Inspired by:
+- anyplace [https://anyplace.cs.ucy.ac.cy/]
+- google maps indoors [https://www.google.com/maps/about/partners/indoormaps/]
+
